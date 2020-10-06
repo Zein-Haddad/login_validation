@@ -1,0 +1,8 @@
+.flex-column {
+    flex-direction: column;
+    height: 100vh;
+}
+
+.login-panel {
+    width: 500px;
+}
